@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎使用GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/XUBIG/xubing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[点击这里](https://github.com/XUBIG/xubing.github.io/edit/gh-pages/index.md)编辑网站
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown区域
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+测试区域
 
 ```markdown
-Syntax highlighted code block
+测试块
 
 # Header 1
 ## Header 2
@@ -26,9 +25,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Markdown语法细节[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll 主题
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XUBIG/xubing.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
